@@ -1,3 +1,13 @@
+## About Project!
+
+image of the project
+[books_project](https://user-images.githubusercontent.com/26798743/225746032-ea547e16-4a9b-4644-ad4c-bba86dea7a35.PNG)
+
+Basically in this react project I have shown all the books in gallery format like in the image from the dummy storge of the database which is db.json file. 
+Also have used useContext for the state management and also applied CRUD operations to the each particular book. 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -38,12 +48,5 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## About Project!
-
-[books_project](https://user-images.githubusercontent.com/26798743/225746032-ea547e16-4a9b-4644-ad4c-bba86dea7a35.PNG)
-
-Basically in this react project I have shown all the books in gallery format like in the image from the dummy storge of the database which is db.json file. 
-Also have used useContext for the state management and also applied CRUD operations to the each particular book. 
 
 
